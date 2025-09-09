@@ -18,3 +18,6 @@ https://htmlpreview.github.io/?https://github.com/wanghemath/MATH5010/blob/main/
 
 Sampling-demo:
 https://htmlpreview.github.io/?https://github.com/wanghemath/MATH5010/blob/main/Interactive%20HTML%20Examples/sampling-demo.html
+
+Buffons_needle_simulation:
+https://htmlpreview.github.io/?https://github.com/wanghemath/MATH5010/blob/main/Interactive%20HTML%20Examples/buffons_needle_simulation.html
